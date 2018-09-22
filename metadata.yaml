@@ -1,0 +1,39 @@
+_repo: Sam-Steele-s-Adventures-on-Land-and-Sea_55597
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Heath, Howard
+    birthdate: 1879
+    gutenberg_agent_id: '38334'
+    url: http://www.gutenberg.org/2009/agents/38334
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Metcalf, Suzanne
+    - Akers, Floyd
+    - Staunton, Schuyler
+    - Fitzgerald, Capt. Hugh
+    - Baum, Lyman Frank
+    - Cooke, John Estes
+    - Bancroft, Laura
+    - Van Dyne, Edith
+    - Fitzgerald, Hugh
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: ''
+gutenberg_issued: '2017-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55597'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Sam Steele's Adventures on Land and Sea
+url: http://www.gutenberg.org/ebooks/55597
